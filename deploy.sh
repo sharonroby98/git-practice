@@ -1,1 +1,1 @@
-Deploying version 2.0
+Deploying version 3.0
