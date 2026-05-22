@@ -1,4 +1,0 @@
-Server Name: prod-web-01
-Region: ap-southeast-1
-OS: Ubuntu
-Status: Running
