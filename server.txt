@@ -1,4 +1,0 @@
-web-server-01
-db-server-01
-cache-server-01
-added new server 
