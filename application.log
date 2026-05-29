@@ -1,0 +1,17 @@
+2026-05-29 08:00:01 INFO Application started successfully
+2026-05-29 08:00:02 INFO Database connection established
+2026-05-29 08:00:05 INFO User sharon logged in
+2026-05-29 08:01:00 ERROR Failed to connect to payment gateway
+2026-05-29 08:01:01 INFO Retrying connection...
+2026-05-29 08:01:05 ERROR Payment service timeout
+2026-05-29 08:02:00 INFO User john logged in
+2026-05-29 08:02:30 WARNING Disk space above 80%
+2026-05-29 08:03:00 ERROR Database connection lost
+2026-05-29 08:03:01 INFO Attempting to reconnect...
+2026-05-29 08:03:05 INFO Database reconnected successfully
+2026-05-29 08:04:00 WARNING Memory usage above 70%
+2026-05-29 08:05:00 ERROR Authentication service not responding
+2026-05-29 08:05:30 INFO System health check completed
+2026-05-29 08:06:00 INFO Backup started
+2026-05-29 08:06:30 ERROR Backup failed - insufficient disk space
+2026-05-29 08:07:00 INFO Application running normally
